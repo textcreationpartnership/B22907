@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Engins invented to save much blood and moneyes, in these times of vvarre, and to doe extraordinary good service with the approbation of the Honourable Major Generall Skippon and five of the committee for the fortifications of the city of London / by Edmond Felton ...</title>
+            <author>Felton, Edmond.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22907</idno>
+            <idno type="STC">Wing F660</idno>
+            <idno type="EEBO-CITATION">12070494</idno>
+            <idno type="OCLC">ocm 12070494</idno>
+            <idno type="VID">196696</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B22907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196696)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 236:E44, no 15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Engins invented to save much blood and moneyes, in these times of vvarre, and to doe extraordinary good service with the approbation of the Honourable Major Generall Skippon and five of the committee for the fortifications of the city of London / by Edmond Felton ...</title>
+                  <author>Felton, Edmond.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Vnderhill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196696:1" rendition="simple:additions"/>
+            <p>ENGINS Invented to ſave much Blood and Moneyes (in theſe times of Warre) and to doe extraordinary good ſervice<g ref="char:punc">▪</g>
+            </p>
+            <p>WITH The approbation of the Honourable Major Generall <hi>Skippon,</hi> and five of the Com<g ref="char:EOLhyphen"/>mittee for the Fortifications of the City of LONDON.</p>
+            <p>By <hi>Edmond Felton</hi> Gent.</p>
+            <floatingText xml:lang="eng" type="imprimatur">
+               <body>
+                  <p>
+                     <hi>Imprimatur,</hi>
+                  </p>
+                  <closer>
+                     <signed>JOHN BOOKER.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Vnderhill</hi> at the ſigne of the Bible in Wood-ſtreet, M.DC.XLIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:196696:2"/>
+            <head>Rayo<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d excellent Engines tending to ſave much bloud and monies in theſe times of Warre.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is Gods command, <hi>No man ſhould ſeeke his owne, but every man one anothers wealth.</hi> A ſufficient warrant for any man undertaking in ſo ſeeking: and whether I have ſo ſought and can doe a gene<g ref="char:EOLhyphen"/>rall good for this Kingdome, witneſſe two Atteſtations in this Book, one under the hand<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the honourable Serjant major Ge<g ref="char:EOLhyphen"/>nerall <hi>Skippon,</hi> the other under the hands of five of the Committee for the For<g ref="char:EOLhyphen"/>tifications of the City of <hi>London;</hi> the originals ready to be produced on de<g ref="char:EOLhyphen"/>mand.</p>
+            <p>If any man ſhould goe and report to any nation or people, where Gun-pou<g ref="char:EOLhyphen"/>der is not knowne, that they would cauſe a great iron bullet of ten or twenty pound weight or more to flie a mile, two or three in the ayre, it would be an<g ref="char:EOLhyphen"/>ſwered it were unpoſſible ſo to doe; and alſo where printing is not knowne, as impoſſible that 3 men ſhould performe more in a legible way of writing in one day then an hundred men, and for that it is knowne to us how it is done, we ſhould ſlight his judgement ſhould gain-ſay it.</p>
+            <p>And what more unpoſſible to ſome to conceive how halfe an Armies victu<g ref="char:EOLhyphen"/>als may be ſaved, five parts of ſix of their pay, all the money that ſhould be laid out for apparelling of them (and the money that ſhould be disburſed for Pikes for halfe an Army, and ſome ſmall quantity of Armour that ſome of them are to have will performe all this.) And this halfe Army to ſecure the other half Army from the horſe and from Musket-ſhot. I preſume this report would prove to thoſe that know not how it is to be done, as hard as <hi>Samſons</hi> riddle.</p>
+            <p>Gods hand is not ſhortened, he gives as miraculous bleſſings (by means) to whom he pleaſes, as well in this age as heretofore; therefore let no man de<g ref="char:EOLhyphen"/>ſpiſe meanes, eſpecially when the commodity thereby is greater than the diſ<g ref="char:EOLhyphen"/>commodity, nor ought any man ro queſtion by what meanes the Lord will end this civill Warre in this Land; but when good waies and meanes ſhall be diſcovered by any man to ſubdue the enemy with little bloud-ſhed, may it not be ſaid it is likely to be the means God will end this Warre by, rather than by equall expoſing one another to ſlaughter, and to reſiſt ſuch meanes, what is it but a refuſing of Gods bleſſing, unleſſe we have a command to the contrary.</p>
+            <p>It is not to be queſtioned, but that the Lord can do infinite things if he pleaſe by his abſolute power, which he will not doe, ſo <hi>John</hi> ſaid of him, <hi>Mat.</hi> 3<g ref="char:punc">▪</g> 9. But it is an actuall or a working power which he executeth in governing of
+<pb n="3" facs="tcp:196696:2"/> the world and the things therein; and it is one thing what God can do where meanes is wanting, and another thing what he will do by the uſe of means.</p>
+            <p>Had Sir <hi>Francis Drake</hi> (that ever renowned Gentleman for his rare inven<g ref="char:EOLhyphen"/>tion by a fiery Ship) done as I have (for that I have not wherwith to manage my invention as he had) diſcover his ſtrategem how he could deſtroy thoſe proud Spaniards, (and their great Armado, that came to make a deſtruction of the people in this land) it is very likely his ſucceſſe ſhould have been no bet<g ref="char:EOLhyphen"/>ter then mine, either in the diſcovery thereof, or diſlike by ſome that would have over-powred him.</p>
+            <p>And if it can either be hoped for, or by any likelihood made to appeare, that this Warre ſhould end this Summer by a better way then by ſuch meanes as it expreſſed in the Propoſitions, than ought this way to be ſlighted, if a better is not knowne, good reaſon this way and ſuch like ſhould be accepted of.</p>
+            <p>If it ſhould be reckoned how many diſcommodities belongs to great pee<g ref="char:EOLhyphen"/>ces of Ordnance, in reſpect of the benefit comes thereby, it would diſcourage men to uſe them in field fights: Firſt in reſpect of the great charge of the peece, his carriage, and the horſes to draw them. Secondly, the charge of pouder and bullet at one ſhot. Thirdly, the men to traverſe them. Fourth<g ref="char:EOLhyphen"/>ly, the ſlow marching of them. Fiftly, if weather be foule a day or two, they many times are lodged, which cauſe the ſtay of the Army, all which may be helpt, as the Propoſitions (following) declares.</p>
+            <p>I will referre ſuch as ſpeake againſt meanes, to the firſt of <hi>Judges 19. v.</hi> how the enemies of God kept their habitation in the valley, becauſe they had chari<g ref="char:EOLhyphen"/>ots of Iron, but they were driven out of the mountaines (by the children of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi>) where they had no ſuch fence, not but that God could have driven them from thence: But the Lord did not alwaies in a miraculous manner deſtroy his enemies, but by meanes ſuffered them to ſave themſelves as the <hi>Canaanites</hi> did with chariots of iron. To teach us in humane things to look to the means<g ref="char:punc">▪</g> if not, what need men plow, but caſt their corne upon the ground, and though God gives the increaſe he will not give it in the worſt way, nor will any wiſe man ſo preſume, than certainly if we uſe the beſt meanes to ſave mens lives, we may expect the better ſucceſſe.</p>
+            <p>And if to feed men to maintaine life we uſe the beſt way, though trouble<g ref="char:EOLhyphen"/>ſome to man and horſe, why ſhould we not uſe the beſt meanes to ſave the lives of men. The ſhallower the corne is ſowne the worſe will it be for the husband-man. So likewiſe the more unprovided a Generall goeth to the wars, the worſer will his ſucceſſe be, if any feare it not, let them go with clubs and ſwords, ſo ſhall much mony be ſaved, but I believe we ſhall find none ſo hardy, but if thoſe that withſtandeth means were themſelves expoſed to the warre, they would be glad of means to keepe them from the horſe, and to be ſecured from musket-ſhot.</p>
+            <pb n="4" facs="tcp:196696:3"/>
+            <p>The uſe of meanes is not hurtfull nor offends God, when it tends to good, but the uſe of meanes may be ſaid to be hurtfull, when we uſe it againſt Gods command, or when we put too much carnall confidence therein, as the <hi>Iſrae<g ref="char:EOLhyphen"/>lites</hi> did in the Arke, when they carried it to the battle, truſting more therein then they did in God, which cauſed the Lord to give both them and it into the hands of their enemies for their vain confidence, but to uſe lawfull means with prayer and a truſt in God for a good ſucceſſe, I preſume it is lawfull. Let me uſe the freedome to declare by theſe preſents, that I have been very ſtrongly oppoſed (by ſome) for above this two yeares, that not any thing I can doe for the good of the State takes ſucceſſe. And if it were required, why I ſhould be ſo maliced, they that do ſo or are the Authours therof can ſhew no juſt cauſe, unleſſe my ſeeking for the good of the State be the cauſe, or the good ſervice my late father did, who had a place under the great Seale of <hi>England</hi> to ſeiſe on part of the Papiſts eſtates, to the uſe of the Crowne, if they would not be conformable to the laws of the land, or in ſuing in the right of the Crown and for my owne due kept from me by powerfull hands.</p>
+            <p>Or for what my late brother did (to the late Duke of <hi>Buckingham</hi>) who was willing to looſe his life for the Kingdomes good, or in reſpect of my adverſa<g ref="char:EOLhyphen"/>rie Sir <hi>Henry Spiller</hi> knight, againſt whom I have bin in ſuites more then this twenty yeares in the right of the Crowne and for my owne due, being a great eſtate, but could not obtain Juſtice againſt my adverſary, ſo powerfull he was in friends and purſe, by whoſe wicked doings my late father and my ſelf have been ruin'd: or for that ſome feares by theſe Engines the warrs will too ſoon be made an end of. For ſome of theſe cauſes or the like, it is certaine I am by ſome both privately oppoſed and fore-ſtalled from doing that good I can for the State, who by themſelves or their Inſtruments, run about the City to diſ<g ref="char:EOLhyphen"/>grace me and my undertakings for the Kingdomes good, but to my face they will not ſo vent their malice: and if ſuch were not guided more by ſpleen and malice than by the Word of God, they would tremble at the reward the Lord threatens ſlanderers with, <hi>Rev.</hi> 22. 15.</p>
+            <p>But would it pleaſe the right Honourable the Houſe of Commons to heare my oppoſers againſt me, and what they can ſay, and heare me to cleare my ſelf, and for what I can doe for the Kingdomes good, they will chooſe rather to be abſent than preſent, than what beliefe is to be given to ſlanderers and depra<g ref="char:EOLhyphen"/>vers of a man behind his backe.</p>
+            <p>One asked <hi>Trajan</hi> the Emperour how he made ſo good choice of Councel<g ref="char:EOLhyphen"/>lors and friends, he replied that his good hap came hereof, that he chooſe them neither covetous men, nor liars, for they in whom covetouſnes and lying ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h any place, cannot love perfectly, and where there is not true love for a States good, there muſt needs be diſſimulation, from ſuch both in Church and Com<g ref="char:EOLhyphen"/>mon-wealth
+<pb n="5" facs="tcp:196696:3"/> it ſhall be my prayer to the Lord to be delivered from.</p>
+            <p>And when men that can doe good ſervice for the State, ſhall be ſlighted and neglected, what is it but to diſcourage men to be acting for the Kingdomes good and encourage men to fawning and flattery; I have not ſought as many have for their owne ends, my chiefeſt ſeeking (as it is generally known) was to have my firſt Engine accepted of, to helpe the <hi>Engliſh</hi> in <hi>Ireland,</hi> and to have the other accepted of here, for the quieting of the State, and ſaving of mens lives, to which ſome things of great conſequence may be added. And for thus endeavouring the States good, I have ſpent my ſelfe out of means and am much in debt.</p>
+            <p>And were theſe Engines put in practiſe (in ſuch waies it hath pleaſed God to give me knowledge of) and that I may have the ordering of the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, I truſt in the Lord they will prove ſucceſſefull for the good of the King and Kingdom.</p>
+            <p>I confeſſe it had been fitter this buſineſſe ſhould have bin carried in a priva<g ref="char:EOLhyphen"/>ter way, and that it might have ſo been, I have l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ft no meanes unattempted and ſeeing I cannot by any means attaine it, is the cauſe I thus publiſh it, to en<g ref="char:EOLhyphen"/>courage all men who are well affected for the States good to be furtherers hereof; and that I can doe other good ſervice were I enabled, ſome Gentle<g ref="char:EOLhyphen"/>men of knowne and approved fidelity can certifie, if requeſted, who refuſed not to give their oath for ſecrecy, which I could not obtaine of others, and if men in ſuch a buſineſſe and of ſo great concernment for the Kingdome<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, feare to truſt themſelves, I ſee no cauſe why I ſhould truſt them.</p>
+            <p>My truſt hath already bin too much abuſed, for one <hi>Young</hi> a Carpenter near Cripple-gate, (lately deceaſed) hearing I could make the Engine expreſſed in my Propoſitions, deſired a friend of his to bring him acquainted with me, which he did, and when J had told him J had cauſed an Engine to be made to keepe the foot from the horſe, and alſo from musket-ſhot, which ſaid Engine ſome of the City Commanders had ſeen, yet would he not believe ſuch an En<g ref="char:EOLhyphen"/>gine could be made, till he went to Major Generall <hi>Browne,</hi> who certified him he had ſeen the Engine that would keep the foot from the horſe; and before J would tell him how it was to be made, J enjoyned him to ſecrecy (for that<g ref="char:punc">▪</g> J diſcovered ſomewhat more to him then formerly J had) who moſt deceitful<g ref="char:EOLhyphen"/>ly in my abſence makes three of the Engines (but knew not how to make the breaſt-worke) brings them publikely through the ſtreets to his Excellencies houſe the Earle of <hi>Eſſex,</hi> and there as publikely were they ſeen in the firſt Court. This man preſently after (as J was told) was made Captaine of the Engineers, and J the inventer ſlighted. His neighbours in Ship-yard by Crip<g ref="char:EOLhyphen"/>ple-gate, knows I was every day for a fortnight with him, giving him<g ref="char:punc">▪</g> dire<g ref="char:EOLhyphen"/>ctions to make the ſaid Engine, which he could not do, but in my abſence got better work-men than himſelf to make the above ſaid Engines; and the ſaid
+<pb n="6" facs="tcp:196696:4"/> Carpenter told one M<hi rend="sup">r</hi> 
+               <hi>Daulman,</hi> one of the Common-councell, he had in<g ref="char:EOLhyphen"/>ſtructions from me to make the Engine, and ſo M<hi rend="sup">r</hi> 
+               <hi>Daulman</hi> told a friend of mine.</p>
+            <p>Which ſaid Engine ſhortly after was made at <hi>Oxford,</hi> but not in ſo good a way as this is, nor ſo marchable with men, nor had they breaſt-works but of boards and iron plates (which mine have not) againſt which ſhould a bullet be ſhot out of a peece of Ordnance, and hit that breaſt-worke, the ſplinters of the wood and iron, would do farre more hurt than the bullet.</p>
+            <p>There was about 20 of the ſaid Engines made at <hi>Oxford,</hi> and from thence carried to <hi>Gloſter</hi> to go up to the wals: And had not his Excellency the Earle of <hi>Eſſex</hi> ſo happily arrived to raiſe that ſiege (as he did) it was reported by ſome of the Army, the City was in great feare to be taken thereby, moſt of which ſaid Engines the beſiegers burnt, becauſe they ſhould not be taken. And this is the benefit comes by publiſhing good inventions, which ought to be kept with all ſecrecy, which I alwaies deſired, for the prevention of which J could wiſh there were a Committee, of approoved skill and honeſty to take oath of ſecrecy not to diſcover any rare invention, and tide by the ſaid oath to deliver the truth of their knowledge, what they conceive thereof, ſo ſhall good inventions, not only be kept ſecret for the good of the State, and men encou<g ref="char:EOLhyphen"/>raged in their undertakings, if recompenced for their pains and charges, as J have heard the cuſtom is in the State of <hi>
+                  <g ref="char:V">Ʋ</g>enice.</hi>
+            </p>
+            <p>There is (J here) now again ſome few breaſt-works made in this City by a Commander to go upon ſervice, which will do a hundred times more miſ<g ref="char:EOLhyphen"/>chief (in the diſcovery) than good, when any man intends to repair a great houſe, that is almoſt ruin'd, he will not go to repair it with a few men, leaſt it fall to the ground in the repairing, much leſſe can a kingdom be brought to a ſettlement that is divided by warre by ſmall and weake means, or by a few Engines be they never ſo excellent, but by extraordinary good means, if well followed it may, then why ſhould a little hinder what much may effect.</p>
+            <p>I could have much more enlarged my ſelfe in way of juſt complaints, or moſt forcible inducements to ingratiate my ſervice and endeavours, but theſe times rather require actions then diſcourſings, the ſumme of which action is thus contracted in the following Propoſitions.</p>
+            <div type="part">
+               <head>Propoſitions of <hi>Edmond Felton,</hi> Gentleman,</head>
+               <p>WHo hath invented and made an Engine for warre, which will keep the horſe from the foot, and ſecure the Musketeers from all ſhot but of Ordnance, and much ſecure them from ſmall ſhot out of Ordnance, and it's ten to one a ſhot out of a
+<pb n="7" facs="tcp:196696:4"/> peece of Ordnance hits the ſaid Engine, two Engines ſupplies the place of a 100. Pike-men, taking up 7 or 10 yards in length, and will alſo go in as narrow a pla<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as a Coach (as occaſion ſerves) and in fair waies two men may manage one Engine at pleaſure, if otherwiſe foure or ſix Musketteers may lay their Muskets on the Engine and run it before them with more eaſe than to carry their Muskets, and thus may their fellow-ſouldiers eaſe them every houre or halfe houre, twenty of the ſaid Engins ſupplie the place of a thouſand Pike-men, whoſe pay with the Officers is above 400 pound a week, hereby would be ſaved all the mony ſhould be laid for apparrelling of thoſe ſouldiers, there will likewiſe be ſaved five parts of ſix of their pay, and the firſt weeks pay thoſe one<g ref="char:punc">▪</g> thouſand Souldiers with their Officers are to have, will make the ſaid twenty Engines, then is there alſo ſaved all the Arms a Regiment of Pike-men are to have, which will be ſome hundred pounds, and the ſixt part of the pay thoſe ſouldiers are to have will maintain the ſaid Engines, pay the men that ſhall manage them, and wagons to carry the breaſt-works of them, if ſo thought fit, or proviſion may be made that one hundred Dragooners with their horſes may draw one hundred of the ſaid Engines after<g ref="char:punc">▪</g> them, if the waies prove very bad, and 3 hundred (or more) of the ſaid Engins with the breaſt-works may be made in a month or little more.</p>
+               <p>One hundred Engins ſupplies the place of five thouſand Pike-men, and takes up in Front 350. or 500. yards, and march as faſt as the Army can march in Summer time. Thus may an Army in a ſhort time be overtaken though ten or twenty mile off, if they have their Artillery with them, and at what advantage the purſuing Ar<g ref="char:EOLhyphen"/>my ſhall pleaſe, conſtraining them to fight or fly. If they ſhall bid battle the odds will be great againſt them, if fly than will their Artillery be taken.</p>
+               <p>There may be made two running Sconces with ſome of the ſaid Engins to flanke at each wing of the <hi>Battalia</hi> to prevent the horſe from wheeling about to fall upon the reare, in each of which Sconces 3. or 400 Musketteers may be placed to ſhoot every way, and Drakes and other Ordnance may be ſecurely placed in the intervails, and other good helps to ſecure the Engins that they cannot be taken.</p>
+               <p>The benefit of this running breaſt-work are firſt, the ſouldiers with them may ſud<g ref="char:EOLhyphen"/>denly intrench themſelves; hereby much mony weekly will be ſaved in Pionars pick Axes, Spades and Wagons to carry them. Secondly the ſaid Engins will be a great eaſe to the City and Country, in victuals and lodging. Thirdly, in ſaving of mens lives. Fourthly, theſe Engines will encourage faint hearted ſouldiers to fight, who ſhall not feare routing by the Enemies horſe. Fiftly the ſouldiers may fight hereby, though much wet fall, and alſo ſhelter themſelves from great rains. Sixtly, hereby much horſe may be ſaved, for 3000. horſe with 8000 Musketeers, and a 100 En<g ref="char:EOLhyphen"/>gines, will doe better ſervice then 6000 horſe and 16000 foot without the ſaid En<g ref="char:EOLhyphen"/>gines, which 3000 horſe ſhall not need to be put upon ſervice, but when the enemies are routed.</p>
+               <p>Hereby in horſe ſome 1000 pounds weekly may be ſaved, other excellent helps may be added to the ſaid Engins.</p>
+               <pb n="8" facs="tcp:196696:5"/>
+               <p>And it is often ſeen that ſouldiers are fearfull to fight againſt the Enemy, when they ſee the horſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>men encouraged to charge reſolutely, but where theſe Engins are in front, they will diſcourage both horſe and foot to come on, and much more diſcourage them, when the <hi>Battalia</hi> are flank'd with the ſaid Engins.</p>
+               <p>The moſt and beſt ſervices conſists either to defend or aſſaile paſſages by water or by ſtraits, or to aſſaile Towns, Forts or Fortreſſes, for which the Musketteers with this running breaſt-worke are the moſt excellent. And alſo hereby ſiege may be laid to any place; And likewiſe a ſiege raiſed from any place (if not) the beſiegers in a ſhort time (by the helpe of the ſaid Engines) may be ſubdued.</p>
+               <p>The Pike is counted the chiefeſt weapon to defend and to enter a breach; If ſo ap<g ref="char:EOLhyphen"/>proved on with naked men, much more to be approved on with breaſt-works, which will ſecure the Musketteers from ſmall ſhot, forcing ſecurely on a breach; though the Enemies neare that place are furniſhed both with ſhot and ſhort weapons.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Major Generall <hi>Skippons</hi> Atteſtation.</head>
+                     <p>Having ſeen an Engine of this bearer M<hi rend="sup">r</hi> 
+                        <hi>Edmond Felton</hi> which was of three tire of ten Muskets in a tire, to ſhoot Arrows withall, and being requeſted by him to ſignifie what I thought thereof, J could doe no leſſe but teſtifie that if the ſaid Engine were compleatly made up, it would doe very great Executi<g ref="char:EOLhyphen"/>on and be of very good uſe and ſervice. <hi>Octob.</hi> 20. 1642.</p>
+                     <closer>
+                        <signed>Ph. Skippon.</signed>
+                     </closer>
+                     <argument>
+                        <p>The ſaid Engine Major Generall <hi>Skippon</hi> ſaw 6 months before the date hereof in the Artillarie Garden.</p>
+                     </argument>
+                  </body>
+               </floatingText>
+               <p>Whereas <hi>Edmond Felton</hi> Gent. hath of late diſcovered (unto us the Com<g ref="char:EOLhyphen"/>mittee for the Fortifications of the City of <hi>London</hi>) how an Engine (of his in<g ref="char:EOLhyphen"/>vention) will ſecure the foot from the horſe, and the Souldiers from Muſquet<g ref="char:EOLhyphen"/>ſhot, which Engine in faire wayes two men may manage at pleaſure, for the ſeeing of which we appointed ſome of the ſaid Committee to ſee and try the ſaid Engine, (which hath hanging breaſt-works,) and it was ſhot at about 40 paces from it, the Muſqueteeres ramming in powder and bullet in their Muſquets, with full bandeleeres of powder, yet could not the ſhot pierce through the ſaid breſt-worke, which we who were appointed did ſee, and ſo reported to the reſt of the Committee; And being requeſted by the ſaid<g ref="char:punc">▪</g> 
+                  <hi>Ed<g ref="char:EOLhyphen"/>mond Felton</hi> ſo to certifie under our hands, of the truth of what was ſeen and reported of, we have done accordingly, witneſſe our hands the 14<hi rend="sup">th</hi> of <hi>March,</hi> 1643.</p>
+               <closer>
+                  <dateline>The ſaid Engine was ſeen and tryed <date>the 19<hi rend="sup">th</hi> of <hi>February.</hi> 1643.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>Richard Bateman,</item>
+                        <item>Chriſtopher Park,</item>
+                        <item>Thomas Noell,</item>
+                        <item>Iames Sto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y.</item>
+                        <item>Peter Mills.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
